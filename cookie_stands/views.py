@@ -2,7 +2,7 @@ from rest_framework.generics import (
     ListCreateAPIView,
     RetrieveUpdateDestroyAPIView,
 )
-from .models import CookieStand, Thing
+from .models import CookieStand
 from .permissions import IsOwnerOrReadOnly
 from .serializers import CookieStandSerializer
 
