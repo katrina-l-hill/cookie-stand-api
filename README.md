@@ -125,3 +125,10 @@ Template Project for starting up CRUD API with Django Rest Framework
 - type python manage.py test
 
 - tests were provided from instructor JB Tellez in class demo code
+
+### How to view deployed sites
+
+Vercel deployed site: https://cookie-stand-admin-katrina-hill.vercel.app/
+
+Heroku deployed site: https://cookie-stand-api-katrina-hill.herokuapp.com/
+- type api/v1/cookie_stands/ after the base url to see the Cookie Stand List
